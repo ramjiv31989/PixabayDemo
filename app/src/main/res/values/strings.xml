@@ -1,0 +1,15 @@
+<resources>
+    <string name="connection_not_available">Network connection not available. Please try again.</string>
+    <string name="finger_print_not_available">Fingerprint not available</string>
+    <string name="finger_print_available">Fingerprint available</string>
+    <string name="finger_print_available_but_not_created">Device support fingerprint but not created</string>
+    <string name="finger_print_recognized">Finger print recognized successfully</string>
+    <string name="finger_print_not_recognized">Finger print not recognized. Try again</string>
+    <string name="finger_print_permission_not_enabled">Fingerprint authentication permission not enabled</string>
+    <string name="on_dot_systems">Ondot Systems</string>
+    <string name="finger_print">Finger print</string>
+    <string name="search_image">Search Images</string>
+    <string name="biometric_auth">Biometric authentication</string>
+    <string name="cancel">Cancel</string>
+    <string name="internet_connection_not_available">Internet connection not available</string>
+</resources>
